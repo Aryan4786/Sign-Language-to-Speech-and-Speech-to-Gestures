@@ -1,2 +1,2 @@
 # Indian Sign-Language-to-Speech-and-Speech-to-Indian-Sign-Gestures
-In this project we convert Sign Language used by Deaf community to Speech and Speech to Gestures
+In this project we used ANN (Artificial Neural Network) for creating the model and CNN (Convolutional Neural Network) on top of it for extracting the data from the images given as input.We also used various Image Processing Techniques like Gaussian Filtering and Thresholding. We also used various Pythotn modules like gTTS (Google text to Speech), numpy, Tensorflow, Textblob (for text autocorrection), cv2 (for image processing), speech_recognition (for recognising the input speech) etc.
